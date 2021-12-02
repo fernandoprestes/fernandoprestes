@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Fernando
+<img align="right" alt="octocat" height="324" width="324"  src="./img/octocat.svg" />
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  Hi, I’m Fernando</h1>
 
 📚 I am front-end developer apprentice.
 
 🌱 I’m currently studying **ReactJS**, **JS**, **TS**.
 
-<div style="display: flex; justify-content: space-between; width: 50vw">
-  <div>
 
 ## 🚀 Languages and tools
 
@@ -27,10 +27,6 @@
 
   </div>
 
-  <div style="display: flex; margin: 0 auto 2rem; align-items: flex-end;">
-    <img alt="octocat" height="324" width="324"  src="./img/octocat.svg" />
-  </div>
-</div>
 
 ---
 
