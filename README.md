@@ -1,6 +1,6 @@
 <img align="right" alt="octocat" height="324" width="324"  src="./img/octocat.svg" />
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  Hi, I’m Fernando</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32" height="32">  Hi, I’m Fernando</h1> 
 
 📚 I am front-end developer apprentice.
 
