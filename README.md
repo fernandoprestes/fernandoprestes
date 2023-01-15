@@ -2,9 +2,11 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32" height="32">  Hi, I’m Fernando</h1> 
 
-📚 I am front-end developer apprentice.
+📚 I'm front-end developer.
 
-🌱 I’m currently studying **VueJS**, **JS**, **TS**.
+👨‍💻 I’m currently working with **VueJS**, **TS**.
+
+🌱 I’m currently studying **ReactJS**, **JS**, **TS**, **UnoCSS**.
 
 
 ## 🚀 Languages and tools
