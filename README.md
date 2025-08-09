@@ -4,11 +4,6 @@
 
 📚 I'm front-end developer.
 
-👨‍💻 I’m currently working with **ReactJS/NextJS**, **TS**.
-
-🌱 I’m currently studying **VueJS**, **JS**, **TS**, **Tailwindcss**, **UnoCSS**.
-
-
 ## 🚀 Languages and tools
 
   <div style="display: inline-block">
@@ -24,21 +19,8 @@
     <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
     <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
     <img alt="Vite" height="30" width="40" src="https://api.iconify.design/logos:vitejs.svg" />
-
   </div>
-
-##
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=fernandoprestes&layout=compact)
-
-
-
-  </div>
-
-
 ---
-
-![Snake animation](https://github.com/fernandoprestes/fernandoprestes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 fernandoprestes/fernandoprestes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
